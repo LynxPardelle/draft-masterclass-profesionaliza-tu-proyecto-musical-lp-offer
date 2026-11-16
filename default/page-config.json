@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Profesionaliza tu proyecto musical | Lynx Pardelle",
+    "description": "Define cómo presentar tu proyecto musical, a quién quieres llegar y en qué espacios tendría sentido mostrarlo. Explora cómo sostener relaciones con otras personas de tu escena.",
+    "canonical": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-negocio.webp"
+    }
+  }
+}

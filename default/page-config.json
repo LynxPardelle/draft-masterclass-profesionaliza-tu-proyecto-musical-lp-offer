@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Profesionaliza tu proyecto musical | Lynx Pardelle",
-    "description": "Define cómo presentar tu proyecto musical, a quién quieres llegar y en qué espacios tendría sentido mostrarlo. Explora cómo sostener relaciones con otras personas de tu escena.",
+    "title": "Masterclass para profesionalizar tu proyecto musical | Lynx Pardelle",
+    "description": "Define tu propuesta musical, identifica tu público y explora eventos y contactos de tu escena. Prepara una presentación breve de tu proyecto.",
     "canonical": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-profesionaliza-tu-proyecto-musical-r2-cf222c5207186ac0.webp",
+      "title": "Masterclass para profesionalizar tu proyecto musical | Lynx Pardelle",
+      "description": "Define tu propuesta musical, identifica tu público y explora eventos y contactos de tu escena. Prepara una presentación breve de tu proyecto.",
+      "url": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/",
+      "imageAlt": "Una mesa de trabajo para organizar un proyecto musical."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass para profesionalizar tu proyecto musical | Lynx Pardelle",
+      "description": "Define tu propuesta musical, identifica tu público y explora eventos y contactos de tu escena. Prepara una presentación breve de tu proyecto.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-profesionaliza-tu-proyecto-musical-r2-cf222c5207186ac0.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/#webpage",
+        "name": "Profesionaliza tu proyecto musical",
+        "description": "Define tu propuesta musical, identifica tu público y explora eventos y contactos de tu escena. Prepara una presentación breve de tu proyecto.",
+        "url": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Profesionaliza tu proyecto musical",
+        "description": "Define tu propuesta musical, identifica tu público y explora eventos y contactos de tu escena. Prepara una presentación breve de tu proyecto.",
+        "url": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-profesionaliza-tu-proyecto-musical-r2-cf222c5207186ac0.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-profesionaliza-tu-proyecto-musical.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
